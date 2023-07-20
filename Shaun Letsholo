@@ -1,0 +1,7 @@
+echo "# cse22-051" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Shaun0125/cse22-051.git
+git push -u origin main
